@@ -1,7 +1,7 @@
 {
   "buttons": {
-    "Keyplan-shading.pushbutton": {
-      "name": "Keyplan Shading",
+    "Keyplan_shading.pushbutton": {
+      "name": "Keyplan_Shading",
       "path": [
         "https://raw.githubusercontent.com/jtschetter-olsson/test/main/buttons/Keyplan-shading.pushbutton/script.py",
         "https://raw.githubusercontent.com/jtschetter-olsson/test/main/buttons/Keyplan-shading.pushbutton/icon.png"
@@ -10,7 +10,7 @@
       "date": "2025-08-13"
     },
     "BatchPrint": {
-      "name": "Keyplan Shading1",
+      "name": "Keyplan_Shading1",
       "path": [
         "C:/RevitTools/BatchPrint"
       ],
@@ -18,7 +18,7 @@
       "date": "2025-08-10"
     },
     "RoomRenumber": {
-      "name": "Keyplan Shading2",
+      "name": "Keyplan_Shading2",
       "path": [
         "C:/RevitTools/RoomRenumber",
         "D:/BackupTools/RoomRenumber"
@@ -28,4 +28,5 @@
     }
   }
 }
+
 
