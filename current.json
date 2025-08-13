@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "find-replace": {
+      "path": "C:/RevitTools/ExportToExcel",
+      "description": "Exports schedule data to Excel format",
+      "date": "2025-08-13"
+    },
+    "BatchPrint": {
+      "path": "C:/RevitTools/BatchPrint",
+      "description": "Prints multiple sheets in one go",
+      "date": "2025-08-10"
+    },
+    "RoomRenumber": {
+      "path": "C:/RevitTools/RoomRenumber",
+      "description": "Renumbers rooms based on location",
+      "date": "2025-07-30"
+    }
+  }
+}
