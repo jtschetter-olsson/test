@@ -1,6 +1,6 @@
 {
   "buttons": {
-    "Keyplan_shading.pushbutton": {
+    "Keyplan_shading": {
       "name": "Keyplan_Shading",
       "path": [
         "https://raw.githubusercontent.com/jtschetter-olsson/test/main/buttons/Keyplan-shading.pushbutton/script.py",
@@ -28,5 +28,6 @@
     }
   }
 }
+
 
 
