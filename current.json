@@ -1,17 +1,25 @@
 {
   "buttons": {
-    "find-replace": {
-      "path": "C:/RevitTools/ExportToExcel",
-      "description": "Exports schedule data to Excel format",
+    "Keyplan-shading.pushbutton": {
+      "path": [
+        "https://raw.githubusercontent.com/jtschetter-olsson/test/main/buttons/Keyplan-shading.pushbutton/script.py",
+        "https://raw.githubusercontent.com/jtschetter-olsson/test/main/buttons/Keyplan-shading.pushbutton/icon.png"
+      ],
+      "description": "shades the keyplans",
       "date": "2025-08-13"
     },
     "BatchPrint": {
-      "path": "C:/RevitTools/BatchPrint",
+      "path": [
+        "C:/RevitTools/BatchPrint"
+      ],
       "description": "Prints multiple sheets in one go",
       "date": "2025-08-10"
     },
     "RoomRenumber": {
-      "path": "C:/RevitTools/RoomRenumber",
+      "path": [
+        "C:/RevitTools/RoomRenumber",
+        "D:/BackupTools/RoomRenumber"
+      ],
       "description": "Renumbers rooms based on location",
       "date": "2025-07-30"
     }
